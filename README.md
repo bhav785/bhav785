@@ -65,7 +65,7 @@ pronouns: she/her
 
 ---
 
-### 📈 Activity Graph
+###  Activity Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhav785&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true"/>
@@ -73,7 +73,7 @@ pronouns: she/her
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 <div align="center">
 
@@ -90,7 +90,7 @@ pronouns: she/her
 
 <div align="center">
 
-*"The best way to predict the future is to build it."* ✨
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
